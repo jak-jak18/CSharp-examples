@@ -6,6 +6,7 @@
     <RootNamespace>CSharp_examples</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>TestConsoleApp.arrays_collections</StartupObject>
   </PropertyGroup>
 
 </Project>
