@@ -9,4 +9,12 @@
     <StartupObject>TestConsoleApp.arrays_collections</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="examples\getting-started\asp.net\getting-started\samples\quotes\quotes.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="examples\getting-started\asp.net\getting-started\samples\quotes\bin\Debug\netcoreapp1.0\" />
+  </ItemGroup>
+
 </Project>
